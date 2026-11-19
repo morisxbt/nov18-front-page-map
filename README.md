@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261118/morisxbt/nov18-front-page-map/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
 [![reward](https://make.fun/badge/news-image-20261118/morisxbt/nov18-front-page-map/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
 
-An original broadsheet news graphic of Wednesday 18 November 2026: 38 date-checked stories across seven regions, illustrated leads, a world map, and a Tuesday exclusion box.
+Version 2 is a densely illustrated front page for Wednesday 18 November 2026, with 38 date-checked stories across seven regions, six headline number cells, three illustrated leads, illustrated secondary cards, a numbered world map, and a date-check panel for Tuesday reports and future events.
 
 ## Run it
 
